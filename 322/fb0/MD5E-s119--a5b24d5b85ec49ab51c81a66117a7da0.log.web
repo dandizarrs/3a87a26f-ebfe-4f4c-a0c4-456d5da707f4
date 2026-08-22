@@ -1,0 +1,8 @@
+1787356802s 1 https://dandiarchive.s3.amazonaws.com/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/acquisition/left_lick_time/data/.zattrs?versionId=qbY8hIFZLi.R4FGcSjcCMgLCeQrpjlGy
+1787356802s 1 https://api.dandiarchive.org/api/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/files?prefix=acquisition%2Fleft_lick_time%2Fdata%2F.zattrs&download=true
+1787356802s 1 https://dandiarchive.s3.amazonaws.com/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/acquisition/left_reward_delivery_time/data/.zattrs?versionId=m7ZuEwogJirsFnzIv7HKW_.WRIBnHPOP
+1787356802s 1 https://api.dandiarchive.org/api/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/files?prefix=acquisition%2Fleft_reward_delivery_time%2Fdata%2F.zattrs&download=true
+1787356802s 1 https://dandiarchive.s3.amazonaws.com/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/acquisition/right_lick_time/data/.zattrs?versionId=IT0.Y.V0mu0URgTnU2rxDGSh2d6gzOEB
+1787356802s 1 https://api.dandiarchive.org/api/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/files?prefix=acquisition%2Fright_lick_time%2Fdata%2F.zattrs&download=true
+1787356803s 1 https://dandiarchive.s3.amazonaws.com/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/acquisition/right_reward_delivery_time/data/.zattrs?versionId=cNtUBp0LXLGgdQ6WzBEMambfBGVOKE99
+1787356803s 1 https://api.dandiarchive.org/api/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/files?prefix=acquisition%2Fright_reward_delivery_time%2Fdata%2F.zattrs&download=true

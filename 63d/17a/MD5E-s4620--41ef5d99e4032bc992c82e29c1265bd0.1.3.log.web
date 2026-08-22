@@ -1,0 +1,4 @@
+1787356831s 1 https://dandiarchive.s3.amazonaws.com/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/units/waveform_mean/0.1.3?versionId=UaOgpRpZgur8CmMLrairrbTi9mL9LVeO
+1787356831s 1 https://api.dandiarchive.org/api/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/files?prefix=units%2Fwaveform_mean%2F0.1.3&download=true
+1787356833s 1 https://dandiarchive.s3.amazonaws.com/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/units/waveform_sd/0.1.3?versionId=hE453adFzW521YpmX4Q_HDi1S4zaRHFh
+1787356833s 1 https://api.dandiarchive.org/api/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/files?prefix=units%2Fwaveform_sd%2F0.1.3&download=true

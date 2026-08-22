@@ -1,0 +1,10 @@
+1787356806s 1 https://dandiarchive.s3.amazonaws.com/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/intervals/trials/laser_condition/0?versionId=Xb1sbuyn1zLG4QUv41h8ScxOcas.DAtB
+1787356806s 1 https://api.dandiarchive.org/api/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/files?prefix=intervals%2Ftrials%2Flaser_condition%2F0&download=true
+1787356806s 1 https://dandiarchive.s3.amazonaws.com/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/intervals/trials/laser_end/0?versionId=qPCldiWnUswIYk.YXX46N0xOao8Rw0mQ
+1787356806s 1 https://api.dandiarchive.org/api/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/files?prefix=intervals%2Ftrials%2Flaser_end%2F0&download=true
+1787356806s 1 https://dandiarchive.s3.amazonaws.com/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/intervals/trials/laser_location/0?versionId=Z4CTxbaLuKVO6IkyXsKxHM8JNfeOPC5E
+1787356806s 1 https://api.dandiarchive.org/api/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/files?prefix=intervals%2Ftrials%2Flaser_location%2F0&download=true
+1787356807s 1 https://dandiarchive.s3.amazonaws.com/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/intervals/trials/laser_protocol/0?versionId=.kaUsmqwCtQcehvmT0Svl.Aq7vgCC5jw
+1787356807s 1 https://api.dandiarchive.org/api/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/files?prefix=intervals%2Ftrials%2Flaser_protocol%2F0&download=true
+1787356807s 1 https://dandiarchive.s3.amazonaws.com/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/intervals/trials/laser_start/0?versionId=0.8lhgk0AD6BwV35ZJ2T6EyTfGD48uLr
+1787356807s 1 https://api.dandiarchive.org/api/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/files?prefix=intervals%2Ftrials%2Flaser_start%2F0&download=true

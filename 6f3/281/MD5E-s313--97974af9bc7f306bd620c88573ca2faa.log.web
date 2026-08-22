@@ -1,0 +1,10 @@
+1787356804s 1 https://dandiarchive.s3.amazonaws.com/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/intervals/trials/auto_waterL/.zarray?versionId=LEOa1f.J1mVg9saa7601HHnbZsORwqlg
+1787356804s 1 https://api.dandiarchive.org/api/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/files?prefix=intervals%2Ftrials%2Fauto_waterL%2F.zarray&download=true
+1787356804s 1 https://dandiarchive.s3.amazonaws.com/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/intervals/trials/auto_waterR/.zarray?versionId=YrsS7KvPW5ywu9Z9IhrkQQJYPpY8sJkG
+1787356804s 1 https://api.dandiarchive.org/api/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/files?prefix=intervals%2Ftrials%2Fauto_waterR%2F.zarray&download=true
+1787356806s 1 https://dandiarchive.s3.amazonaws.com/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/intervals/trials/id/.zarray?versionId=k_Nav17TBHJI2wQMmcVzdcqehxaaQFIM
+1787356806s 1 https://api.dandiarchive.org/api/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/files?prefix=intervals%2Ftrials%2Fid%2F.zarray&download=true
+1787356807s 1 https://dandiarchive.s3.amazonaws.com/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/intervals/trials/laser_on_trial/.zarray?versionId=jhONOVqriCj.ZaTR1a8MF9_kl7FXBXp5
+1787356807s 1 https://api.dandiarchive.org/api/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/files?prefix=intervals%2Ftrials%2Flaser_on_trial%2F.zarray&download=true
+1787356810s 1 https://dandiarchive.s3.amazonaws.com/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/intervals/trials/trial_ind/.zarray?versionId=tltKUj_SmRs77OCW3EkW75m5BgG_obje
+1787356810s 1 https://api.dandiarchive.org/api/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/files?prefix=intervals%2Ftrials%2Ftrial_ind%2F.zarray&download=true

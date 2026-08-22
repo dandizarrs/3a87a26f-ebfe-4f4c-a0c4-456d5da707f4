@@ -1,0 +1,4 @@
+1787356828s 1 https://dandiarchive.s3.amazonaws.com/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/units/peak_waveform_fake_raw/.zarray?versionId=Rg8DtRH6RBedcyg1vdNgHo_y_P5XU8sq
+1787356828s 1 https://api.dandiarchive.org/api/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/files?prefix=units%2Fpeak_waveform_fake_raw%2F.zarray&download=true
+1787356833s 1 https://dandiarchive.s3.amazonaws.com/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/units/waveform_on_peak_channel_of_raw_waveform/.zarray?versionId=cXhySAiiKGar1T3XTorBrlRgfIBICacs
+1787356833s 1 https://api.dandiarchive.org/api/zarr/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4/files?prefix=units%2Fwaveform_on_peak_channel_of_raw_waveform%2F.zarray&download=true
